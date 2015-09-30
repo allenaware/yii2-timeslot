@@ -1,0 +1,21 @@
+{
+    "name": "allenaware/yii2-timeslot",
+    "description": "yii2 extension for 7x24 time slot selection",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","7x24","time","slot"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "allencui",
+            "email": "allenaware@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "allenaware\\timeslot\\": ""
+        }
+    }
+}
