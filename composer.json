@@ -17,5 +17,11 @@
         "psr-4": {
             "allenaware\\timeslot\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+                "type": "git",
+                "url": "https://github.com/allenaware/yii2-timeslot.git"
+            }
+    ]
 }
